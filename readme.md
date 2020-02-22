@@ -1,4 +1,4 @@
-# Cutting Stock Problem (column generation)
+# Cutting Stock Problem (Column Generation)
 
 列生成求解
 
